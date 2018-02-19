@@ -1,0 +1,6 @@
+{
+    "require": {
+        "opencage/geocode": "^2.0",
+        "willdurand/geocoder": "^3.3"
+    }
+}
